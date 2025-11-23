@@ -18,7 +18,7 @@ Students will learn:
 We simulate a campus management backend system called **UniFlow**. Each student is treated like a backend developer in a real project.
 
 - All students use the **same GitHub repository**.
-- Each student gets a **unique task** from `[tasks.xlsx](https://docs.google.com/spreadsheets/d/1OAHMY6R1-c0KlB5Rgj7CnwRLxRnmTyUelOzlUjaAq4w/edit?usp=sharing)`.
+- Each student gets a **unique task** from `(https://docs.google.com/spreadsheets/d/1OAHMY6R1-c0KlB5Rgj7CnwRLxRnmTyUelOzlUjaAq4w/edit?usp=sharing)`.
 - Tasks are divided into modules: `Auth`, `Students`, `Attendance`, `Faculty`, `Exams`, `Library`, `Placement`, `Admin`, `Chat`, etc.
 - Students work only on their assigned API/feature in a separate Git branch.
 
